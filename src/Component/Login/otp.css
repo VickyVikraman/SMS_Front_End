@@ -1,0 +1,12 @@
+.otpInput{
+    width: 3em !important;
+    height:3em !important;
+    border: 1px solid #d9d9d9 !important;
+    border-radius: 4px !important       ;
+}
+.otpInput:focus{
+    border-color: #40a9ff !important;
+    border-right-width: 1px ;
+    outline: 0;
+    box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+}

@@ -1,0 +1,17 @@
+.mainLogin {
+    width: 30%; 
+    height: fit-content;
+    position: absolute;
+    top: 0;
+    box-shadow: 1px -1px 6px 2px #d2d2d4;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto !important;
+}
+
+.login{
+    width: 100% !important;
+
+}
